@@ -1,14 +1,15 @@
 <!-- Hi everyone who is checking this lol -->
 <p align="center">
-    <img src="https://github.com/SuzuTwT/SuzuTwT/assets/106556061/bb1f665a-3842-491e-a16a-d534c4e824c3" alt="skill issue" width="600" />
+    <img src="https://github.com/user-attachments/assets/07231b4b-ee70-42ac-9f39-68a9bde298ae" alt="skill issue" width="600" />
+  
 
 # You love checking Git Profiles, don't you? ![boykissere](https://github.com/SuzuTwT/SuzuTwT/assets/106556061/ebaf292b-7c24-41c7-8bf1-c9da3d4b736d)
 
 # 👋 Hi, привет, hola! Here are some cool stuff to know about me 
 
-- i fucking love Little Big Planet series you have no idea
+- i LOVE Little Big Planet series you have no idea
 - i like making goofy ass games in unity :P
-- Gacha Addiction please help me
+- Gacha ADDICTION please help me
 - GREEN TEA LIPTON I LOVE YOU SO BAD, I CAN DRINK YOU EVERDAY EVERY NIGHT, YOU ARE IN MY VEINS ALREADY AND I STILL LOVE YOU NO MATTER WHAT <3
 
 ### This is my Discord. Feel free to DM me, i don't bite hehehehe
@@ -35,3 +36,6 @@
   <img src="https://github.com/SuzuTwT/SuzuTwT/assets/106556061/b8884ba5-ea41-4bb6-b3d0-7657988d1d66" alt="липтонмммммммм"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b864e402-c4bd-4226-8e6d-04202265921d" alt="skill issue" width="400" />
+</p>
